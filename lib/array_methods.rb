@@ -13,9 +13,13 @@ counter = 0
 
 while counter<array.length do
   
-  return #highest Integer
-  count
+  return array.max
+  counter +=1
 end
+end
+
+
+
 
 def find_min_value(array)
   # Add your solution here
